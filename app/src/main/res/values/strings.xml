@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FingerPrintLab</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="unsupported_api">Unsupported API</string>
+    <string name="no_fingerprints_registered">No Fingerprints registered</string>
+    <string name="no_fingerprint_hardware">No fingerprint hardware</string>
+    <string name="has_fingerprint">has fingerprint</string>
+</resources>
