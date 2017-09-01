@@ -226,7 +226,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         KeyStore ks = null;
 
         try {
-            ks = KeyStore.getInstance("AndroidKeyStore");
+            ks = KeyStore.getInstance(KEYSTORE_PROVIDER);
         } catch (KeyStoreException e) {
             e.printStackTrace();
         }
